@@ -1,0 +1,121 @@
+# Allgemeine Ignorierungen für alle Betriebssysteme
+*.log
+*.tmp
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+ehthumbs.db
+
+# Windows-spezifische Dateien
+*.exe
+*.dll
+*.obj
+*.lib
+*.pdb
+*.exp
+*.manifest
+*.idb
+*.sdf
+*.suo
+*.user
+*.aps
+*.ncb
+*.cache
+*.ilk
+*.ipch
+*.tlog
+*.log
+*.pyc
+*.pyo
+*.class
+*.jar
+
+# macOS-spezifische Dateien
+.DS_Store
+.AppleDouble
+.LSOverride
+__MACOSX/
+._*
+
+# Linux-spezifische Dateien
+*.out
+*.so
+*.o
+*.a
+
+# C++ Build-Dateien
+/build/
+bin/
+obj/
+*.obj
+*.o
+*.so
+*.exe
+*.out
+*.a
+*.lib
+*.dll
+*.dylib
+*.exp
+*.pdb
+*.cbp
+*.depend
+*.layout
+
+# Visual Studio
+.vscode/
+*.vcxproj*
+*.sln
+*.sdf
+*.ipch
+*.aps
+*.ncb
+*.db
+*.opendb
+*.VC.db
+
+# CMake
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+
+# Java Build-Dateien
+*.class
+*.jar
+*.war
+*.ear
+*.iml
+*.ipr
+*.iws
+*.project
+*.classpath
+*.settings/
+target/
+bin/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+out/
+
+# Eclipse
+.metadata/
+bin/
+obj/
+*.classpath
+*.project
+*.settings/
+
+# Maven
+target/
+
+# Gradle
+.gradle/
+build/
+
+# NetBeans
+nbproject/private/
+build/
+dist/
